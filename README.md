@@ -1,8 +1,8 @@
 # Project-template
 
 - Data Science 
-- 2017 07 17
-- htfmelekote@gmail.com
+- 2017-07-17
+- Hailemelekot Teklu K.: htfmelekote@gmail.com
 - Course
 - Summer school 2017 on Data Science
 
